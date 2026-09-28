@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at uart_cmd.sv(51): object "CMD" differs only in case from object "cmd" in the same scope File: C:/Users/morga/Documents/MSOscilloscope/rtl/uart/uart_cmd.sv Line: 51
+Info (10281): Verilog HDL Declaration information at capture_ctrl.sv(53): object "tx_start" differs only in case from object "TX_START" in the same scope File: C:/Users/morga/Documents/MSOscilloscope/rtl/adc/capture_ctrl.sv Line: 53
